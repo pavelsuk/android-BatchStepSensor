@@ -126,7 +126,7 @@ public class BatchStepSensorFragment extends Fragment implements OnCardClickList
         super.onPause();
         // BEGIN_INCLUDE(onpause)
         // Unregister the listener when the application is paused
-        unregisterListeners();
+        // unregisterListeners();
         // END_INCLUDE(onpause)
     }
 
