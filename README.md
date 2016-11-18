@@ -38,7 +38,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot2.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot3.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot4.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot5.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot6.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot2.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot3.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot4.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot5.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
